@@ -3,4 +3,4 @@
 - React sythetic Events
 - useState hook
 
-![React Synthetic Events Practice Username Password Demo](assets/syn.gif)
+![React Synthetic Events Practice Username Password Demo](./src/assets/syn.gif)
